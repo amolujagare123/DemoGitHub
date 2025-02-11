@@ -45,4 +45,11 @@ public class Login {
     {
         forgotPassword.click();
     }
+
+
+    void demo()
+    {
+
+
+    }
 }
