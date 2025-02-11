@@ -16,5 +16,8 @@ public class LoginTest {
         login.setTxtUsername("amolujagare@gmail.com");
         login.setTxtPassword("admin123");
         login.clickLogin();
+
+        //end of the program
+        driver.quit();
     }
 }
